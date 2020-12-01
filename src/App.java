@@ -16,7 +16,7 @@ public class App {
             }
             }
         }
-
-        System.out.println(temp);
+        System.out.println("Before: "+s);
+        System.out.println("After: "+temp);
     }
 }

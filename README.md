@@ -1,4 +1,5 @@
 Example:
 java App
 
-We wil meet  friend  in New Vegas!
+Before: We wil meet *asdklahj asklh asd* friend *asdklj asdhkjh* in New Vegas!
+After: We wil meet  friend  in New Vegas!
